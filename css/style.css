@@ -90,3 +90,7 @@ body {
   font-weight: 500 !important;
   padding: 15px 30px !important;
 }
+
+.divider-space {
+  padding: 100px 0px !important;
+}
